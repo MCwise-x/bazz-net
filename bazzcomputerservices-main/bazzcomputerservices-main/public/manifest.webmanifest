@@ -1,0 +1,16 @@
+{
+  "name": "PrintMaster AI",
+  "short_name": "PrintMaster",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#22d3ee",
+  "description": "Kiosk OCR, image editing and passport printing — offline-capable.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
